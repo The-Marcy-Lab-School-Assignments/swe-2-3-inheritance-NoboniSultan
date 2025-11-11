@@ -73,6 +73,8 @@ const p2 = new Person("Rahi", "Traveler and writer.", "Journalist");
 console.log(p1.introduce());
 console.log(Person.findByName("rahi"));
 
+// 404: main branch not found
+
 module.exports = {
   Quadrilateral,
   Rectangle,
